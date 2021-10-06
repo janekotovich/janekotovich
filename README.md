@@ -15,8 +15,9 @@
 - 👋 Hi, I’m Jane Kotovich
 - 👀 I’m interested in getting more experience as Software Developer
 - :koala: I'm obssessed with JavaScript. Generally, Web Development feels for me like a magic 
-- 🌱 I’m currently learning React - TypeScript & Redux
+- 🌱 I’m currently learning: React - TypeScript && Creating unit tests
 - 💞️ I’m looking for opportunities to work in Open Source
+- :zap: My biggest tech achievement so far: finally understanding JS promises & Classess
 
 
 <!---

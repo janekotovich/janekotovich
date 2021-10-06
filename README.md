@@ -27,7 +27,5 @@ You can click the Preview link to take a look at your changes.
 <hr style="border:2px solid gray"> </hr>
 
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" aColor="pink"/>
-<hr style="border:2px solid gray"> </hr>
 
 
